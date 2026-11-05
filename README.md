@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Ali Abd Al Hamed 👋</h1>
+<h1 align="center">Hi, I'm Ali Abd Al Hamed</h1>
 
-<h3 align="center">.NET Backend Developer | Software Engineering Student</h3>
+<h3 align="center">.NET Backend Developer | Software Engineer</h3>
 
 <p align="center">
   Building scalable applications, exploring software architecture, and solving problems through code.
@@ -8,14 +8,14 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
-- 🎓 IT student at Egyptian E-Learning University (EELU).
-- 💻 Focused on **Backend Development using C# and ASP.NET Core**.
-- 🚀 Currently exploring software architecture, design patterns, and system design.
-- 🧠 Interested in problem-solving, algorithms, networking, and low-level programming.
-- 🔭 Always working on something new and improving my development skills.
-- 🎯 Working towards becoming a well-rounded Software Engineer.
+-  I'm Software Engineer.
+-  Focused on **Backend Development using C# and ASP.NET Core**.
+-  exploring software architecture, design patterns, and system design.
+-  Interested in problem-solving, algorithms, networking, and low-level programming.
+-  Always working on something new and improving my development skills.
+-  Working towards becoming a well-rounded Software Engineer.
 
 ---
 
@@ -45,16 +45,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
 </p>
 
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Technologies |
-|---|---|---|
-| E-Commerce RESTful API | Backend API for an e-commerce system. | C#, ASP.NET Core, SQL Server |
-| Chat System | Client-server communication with networking and multithreading. | C++, Sockets, Shared Memory |
-| AI Snake Game | Snake game with an AI agent using pathfinding algorithms. | Python, BFS |
-| Maze Solver | Algorithm-based maze navigation and pathfinding. | C++ |
 
 ---
 
@@ -69,10 +59,6 @@
 
 ### 🤝 Connect With Me
 
-<p align="center">
-  <a href="https://github.com/ALIABDALHAMED">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/ali-abd-al-hamed-690439217/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
