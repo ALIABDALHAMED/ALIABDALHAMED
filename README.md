@@ -48,7 +48,7 @@
 
 ---
 
-### 📊 GitHub Statistics
+###  GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ALIABDALHAMED&show_icons=true&theme=github_dark&hide_border=true" height="165" />
@@ -57,13 +57,10 @@
 
 ---
 
-### 🤝 Connect With Me
+###  Connect With Me
 
   <a href="https://www.linkedin.com/in/ali-abd-al-hamed-690439217/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
-<p align="center">
-  <i>"Great software is built one problem at a time."</i>
-</p>
