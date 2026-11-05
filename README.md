@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ali Abd Al Hamed</h1>
 
-<h3 align="center">.NET Backend Developer | Software Engineer</h3>
+<h3 align="center">.NET Backend | Software Engineer</h3>
 
 <p align="center">
   Building scalable applications, exploring software architecture, and solving problems through code.
